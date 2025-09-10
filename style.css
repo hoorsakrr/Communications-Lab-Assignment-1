@@ -1,0 +1,30 @@
+/* Body */ /*This is how you comment in css*/
+body { /*This body refers to the structure of the webpage*/
+ background-color: pink;
+ font-family: 'Arial';font-size: 12px;
+}
+ 
+/* Heading */
+h1 {
+ color: Black;
+ text-align: center;
+}
+h2 {
+ color: black;
+ text-align: left;
+}
+h4 {
+ color: black;
+ text-align: left;
+}
+h4 {
+ color: black;
+ text-align: left;
+}
+ 
+/* Make the image responsive */
+img {
+ max-width: 100%;  /* Image will never exceed the width of its container */
+ height: auto;     /* Maintain the aspect ratio */
+}
+
